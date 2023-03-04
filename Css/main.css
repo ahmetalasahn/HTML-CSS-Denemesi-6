@@ -1,0 +1,79 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.Instagram
+{
+    text-align: center;
+    padding: 160px;
+    display: flex;
+    position: relative;
+    left: 370px;
+}
+.logo
+{
+    margin-right: 50px;
+}
+.GirisYap
+{
+    border: 1px solid lightgray;
+    padding: 15px;
+    float: right;
+}
+.logo1
+{
+    margin-top: 50px;
+}
+.text1
+{
+    border: 1px solid lightgray;
+    border-color: lightgray;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    width: 300px;
+}
+.text2
+{
+    border: 1px solid lightgray;
+    border-color: lightgray;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    width: 300px;
+}
+.girisButton
+{
+    border: 1px solid #4DB5F9;
+    background-color: #4DB5F9;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    width: 320px;
+}
+.line
+{
+    margin-top: 15px;
+}
+.face
+{
+    margin-bottom: 85px;
+}
+.sifre
+{
+    text-decoration: none;
+    color: gray;
+    padding: 25px;
+    margin-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
